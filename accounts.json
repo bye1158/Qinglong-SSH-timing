@@ -1,0 +1,16 @@
+{
+  "accounts": [
+    {
+      "username": "账号",
+      "password": "密码",
+      "panel": "主机名",
+      "port": 端口
+    },
+    {
+      "username": "账号",
+      "password": "密码",
+      "panel": "主机名",
+      "port": 端口
+    }
+  ]
+}
