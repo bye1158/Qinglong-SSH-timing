@@ -7,7 +7,7 @@
   - 依赖管理--安装Linux依赖sshpass和jq
   - 脚本管理--创建serv00.sh、serv00.py、accounts.json文件并复制代码
   - 修改notify.py中TG_BOT_TOKEN与TG_USER_ID值。
-
+  - 修改ACCOUNTS_JSON中的服务器信息
 
 ## 定时自动执行
   - 定时任务--创建任务--任务名（随意）--命令task serv00.sh--定时32 5 2 * *（北京时间每月第2日5时32分执行，可修改）
