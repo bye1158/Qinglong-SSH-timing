@@ -1,4 +1,4 @@
-#青龙面板serv00等保活并发送 Telegram 通知 （通用SSH登录保活）
+#青龙面板定时SSH登录脚本，可serv00等定时登录保活并发送 Telegram 通知 （通用SSH登录）
 
 
 1. **创建一个 Telegram Bot 并获取其 API Token。**
