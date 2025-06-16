@@ -4,7 +4,7 @@
 1. **创建一个 Telegram Bot 并获取其 API Token。**
   - 获取用户或群组的Telegram Chat ID和Telegram Bot API Token。
 2. **青龙面板**
-  - 依赖管理--安装Linux依赖sshpass和jq
+  - 依赖管理--安装Linux依赖sshpass和jq, Python3依赖requests
   - 脚本管理--创建serv00.sh、serv00.py、accounts.json文件并复制代码
   - 修改notify.py中TG_BOT_TOKEN与TG_USER_ID值。
   - 修改ACCOUNTS_JSON中的服务器信息
